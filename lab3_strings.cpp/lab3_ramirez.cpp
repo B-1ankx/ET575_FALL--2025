@@ -63,9 +63,7 @@ int main(){
             cin >> word;
             int len = word.length();
             cout << "the word you entered is: " << word << endl;
-            if (len >= 2)
                 cout << "the 2nd character is: " << word[1] << endl;
-            else
                 cout << "the word is too short for a 2nd character." << endl;
             cout << "word has: " << len << " characters" << endl;
 
