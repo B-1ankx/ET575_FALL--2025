@@ -42,10 +42,11 @@ int main() {
 }
 
 // --- AI Assistant Used: PerplexityT ---
-// Was the code correct? (Yes/No)
-// Was it readable and properly commented?
-// Were you able to explain each line of code?
-// Did it use the same programming concepts we learned in class?
+// Was the code correct? Yes it  was correct
+// Was it readable and properly commented? yes it was reasdable and properly commented
+// Were you able to explain each line of code? some of the lines and in otehr lines it was hard to explain
+/* Did it use the same programming concepts we learned in class? it did use some of the programming concepts we learned in class
+and some new ones like if and else statments*/
 // Terminal Output: 
 
 /*  
