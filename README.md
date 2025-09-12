@@ -1,1 +1,1 @@
-class projects for ET 575 intro to C++ programming 
+class lessons & exercises for ET 575 intro to C++ programming 
