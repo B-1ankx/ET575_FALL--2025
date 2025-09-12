@@ -91,8 +91,7 @@ int main() {
     cin >> projects;
     cout << "enter the homework grade: ";
     cin >> homework;
-
-    // Corrected weights: final_exam 0.5, labs 0.2, projects 0.2, homework 0.1
+    
     grades = final_exam * 0.5 + labs * 0.2 + projects * 0.2 + homework * 0.1;
 
     if (grades >= 90 && grades <= 100) {
